@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Software Engineer Intern Web ",
+    "by": "PT Berani Digital ID",
+    "image": "./certification/sft.png",
+    "category": "Programming",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "GoTo Career Certification: Digital Marketing & E-Commerce",
+    "by": "GoTo Impact Foundation",
+    "image": "./certification/goto.png",
+    "category": "Marketing",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "Google Devfest 2023",
+    "by": "Google Developer Groups Surabaya",
+    "image": "./certification/gdg.png",
+    "category": "programming",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "The Fundamentals of Digital Marketing",
+    "by": "Google Digital Workshop",
+    "image": "./certification/google.jpg",
+    "category": "Marketing",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "AI Foundations: Imagine Cup Junior",
+    "by": "Microsoft | Educator Center",
+    "image": "./certification/m2.jpg",
+    "category": "AI",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "Data Science",
+    "by": "ASEAN Youth Organization and ASEAN Foundation",
+    "image": "./certification/data.jpg",
+    "category": "Educations",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "Users in Flutter",
+    "by": "Google Developer Group Surabaya and Google Developer Student Clubs - ISTTS Campus",
+    "image": "./certification/gdg.jpg",
+    "category": "Educations",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "Microsoft Imagine Academy",
+    "by": "Microsoft | Educator Center",
+    "image": "./certification/m.jpg",
+    "category": "Educations",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "Build a School to Career Pipeline with Esports and Gaming Concepts",
+    "by": "Microsoft | Educator Center",
+    "image": "./certification/esports.png",
+    "category": "Educations",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "Certified Microsoft Innovative Educator",
+    "by": "Microsoft | Educator Center",
+    "image": "./certification/m1.png",
+    "category": "Educations",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "HTML",
+    "by": "Sololearn",
+    "image": "./certification/html.jpg",
+    "category": "programming",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
+    "name": "CSS",
+    "by": "Sololearn",
+    "image": "./certification/css.jpg",
+    "category": "programming",
+    "links": {
+      "credentials": ""
+    }
+  }
+]

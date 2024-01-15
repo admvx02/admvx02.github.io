@@ -1,0 +1,65 @@
+[
+  {
+    "title": "MySPP Web",
+    "tech": "PHP Native, Bootstrap, MySQL",
+    "image": "./assets/img/project/mysppweb.png",
+    "desc": "School Payment Web Application Using Midtrans Gateway.",
+    "links": {
+      "code": "https://github.com/admvx02/myspp-php-native"
+    }
+  },
+  {
+    "title": "Bluelock",
+    "tech": "Vite ReactJS, NodeJS, Solidity",
+    "image": "./assets/img/project/Bluelock.png",
+    "desc": "E-Government Digital Financial Transaction System Web 3.",
+    "links": {
+      "code": "https://github.com/admvx02/Bluelock"
+    }
+  },
+  {
+    "title": "E-Arsip Surat",
+    "tech": "Laravel 8, Bootstrap 5, MySQL",
+    "image": "./assets/img/project/e-arsip.png",
+    "desc": "Incoming and Outgoing Mail Web Applications.",
+    "links": {
+      "code": "https://github.com/admvx02/Surat-app"
+    }
+  },
+  {
+    "title": "MySPP Dekstop",
+    "tech": "Java Netbeans, MySQL",
+    "image": "./assets/img/project/myspp.png",
+    "desc": "School Administration Payment Dekstop Application.",
+    "links": {
+      "code": "https://github.com/admvx02/MySPP"
+    }
+  },
+  {
+    "title": "UKM Sembako",
+    "tech": "Java Netbeans, MySQL",
+    "image": "./assets/img/project/ukmsembako.png",
+    "desc": "Inventory Management System Dekstop Application.",
+    "links": {
+      "code": "https://github.com/admvx02/Inventory-barang-sembako"
+    }
+  },
+  {
+    "title": "Chat Bot",
+    "tech": "HTML, CSS, Java Script",
+    "image": "./assets/img/project/bot.png",
+    "desc": "Send Messages and be Answered by Bot Automatically",
+    "links": {
+      "code": "https://github.com/admvx02/Chat-Bot"
+    }
+  },
+  {
+    "title": "Portfolio Website",
+    "tech": "HTML, CSS",
+    "image": "./assets/img/project/portfolioweb.png",
+    "desc": "Responsive Simple Personal IT Website",
+    "links": {
+      "code": "https://github.com/admvx02/Personal-Website"
+    }
+  }
+]
