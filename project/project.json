@@ -9,6 +9,15 @@
     }
   },
   {
+    "title": "Intako Leather",
+    "tech": "Laravel 10, Bootstrap, MySQL",
+    "image": "./assets/img/project/intako2.png",
+    "desc": "Website Selling Genuine Leather Bags.",
+    "links": {
+      "code": ""
+    }
+  },
+  {
     "title": "Bluelock",
     "tech": "Vite ReactJS, NodeJS, Solidity",
     "image": "./assets/img/project/Bluelock.png",
