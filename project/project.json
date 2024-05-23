@@ -11,7 +11,7 @@
   {
     "title": "Intako Leather",
     "tech": "Laravel 10, Bootstrap, MySQL",
-    "image": "./assets/img/project/intako2.png",
+    "image": "./assets/img/project/intako.png",
     "desc": "Website Selling Genuine Leather Bags.",
     "links": {
       "code": ""
