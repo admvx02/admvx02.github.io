@@ -1,5 +1,14 @@
 [
   {
+    "name": "Apple Foundation Program",
+    "by": "Apple Developer Academy",
+    "image": "./certification/apple.png",
+    "category": "Programming",
+    "links": {
+      "credentials": ""
+    }
+  },
+  {
     "name": "Software Engineer Intern Web ",
     "by": "PT Berani Digital ID",
     "image": "./certification/sft.png",
