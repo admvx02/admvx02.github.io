@@ -11,7 +11,7 @@
   },
   {
     "title": "Tasma - Task Management",
-    "tech": "Swift UI, Swift",
+    "tech": "Swift UI, Swift Data",
     "image": "./assets/img/project/tasma.png",
     "desc": "",
     "links": {
