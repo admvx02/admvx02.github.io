@@ -1,11 +1,32 @@
 [
+   {
+    "title": "Brivent - Briliiant Inventory",
+    "tech": "Laravel Filament, MySQL",
+    "image": "./assets/img/project/brivent.png",
+    "desc": "",
+    "links": {
+      "code": "https://github.com/admvx02/brivent-brilliant-inventory",
+      "demo": "https://brivent.bieplus.com"
+    }
+  },
+  {
+    "title": "Tasma - Task Management",
+    "tech": "Swift UI, Swift",
+    "image": "./assets/img/project/tasma.png",
+    "desc": "",
+    "links": {
+      "code": "https://github.com/admvx02/task-management-apple-foundation",
+      "demo": ""
+    }
+  },
   {
     "title": "MySPP Web",
     "tech": "PHP Native, Bootstrap, MySQL",
     "image": "./assets/img/project/mysppweb.png",
     "desc": "School Payment Web Application Using Midtrans Gateway.",
     "links": {
-      "code": "https://github.com/admvx02/myspp-php-native"
+      "code": "https://github.com/admvx02/myspp-php-native",
+      "demo": ""
     }
   },
   {
@@ -14,7 +35,8 @@
     "image": "./assets/img/project/intako.png",
     "desc": "Website Selling Genuine Leather Bags.",
     "links": {
-      "code": ""
+      "code": "",
+      "demo": ""
     }
   },
   {
@@ -23,7 +45,8 @@
     "image": "./assets/img/project/Bluelock.png",
     "desc": "E-Government Digital Financial Transaction System Web 3.",
     "links": {
-      "code": "https://github.com/admvx02/Bluelock"
+      "code": "https://github.com/admvx02/Bluelock",
+      "demo": ""
     }
   },
   {
@@ -32,7 +55,9 @@
     "image": "./assets/img/project/e-arsip.png",
     "desc": "Incoming and Outgoing Mail Web Applications.",
     "links": {
-      "code": "https://github.com/admvx02/Surat-app"
+      "code": "https://github.com/admvx02/Surat-app",
+      "demo": ""
+    
     }
   },
   {
@@ -41,7 +66,8 @@
     "image": "./assets/img/project/myspp.png",
     "desc": "School Administration Payment Dekstop Application.",
     "links": {
-      "code": "https://github.com/admvx02/MySPP"
+      "code": "https://github.com/admvx02/MySPP",
+      "demo": ""
     }
   },
   {
@@ -50,7 +76,8 @@
     "image": "./assets/img/project/ukmsembako.png",
     "desc": "Inventory Management System Dekstop Application.",
     "links": {
-      "code": "https://github.com/admvx02/Inventory-barang-sembako"
+      "code": "https://github.com/admvx02/Inventory-barang-sembako",
+      "demo": ""
     }
   },
   {
@@ -59,7 +86,8 @@
     "image": "./assets/img/project/bot.png",
     "desc": "Send Messages and be Answered by Bot Automatically",
     "links": {
-      "code": "https://github.com/admvx02/Chat-Bot"
+      "code": "https://github.com/admvx02/Chat-Bot",
+      "demo": ""
     }
   },
   {
@@ -68,7 +96,8 @@
     "image": "./assets/img/project/portfolioweb.png",
     "desc": "Responsive Simple Personal IT Website",
     "links": {
-      "code": "https://github.com/admvx02/Personal-Website"
+      "code": "https://github.com/admvx02/Personal-Website",
+      "demo": ""
     }
   }
 ]

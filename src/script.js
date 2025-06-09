@@ -86,6 +86,7 @@ function showProject(project) {
                     <i class="fas fa-code"></i>
                     Code
                 </a>
+              
             </div>
         </div>
     </div>
